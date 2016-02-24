@@ -1,0 +1,7 @@
+*.o
+*.so
+*.a
+*.swp
+tags
+cscope.*
+ssd1306
